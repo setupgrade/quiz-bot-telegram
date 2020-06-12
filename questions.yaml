@@ -1,0 +1,224 @@
+-
+  id: 1
+  q: "Quale è la Mission di scegli il Top?"
+  a:
+    - "Aiutare le compagnie telefoniche a vendere di più"
+    - "Tutelare gli operatori del settore TELCO per inserirli nel mondo del lavoro"
+    - correct: "Aiutare le persone a districarsi nel marasma delle Compagnie Telefoniche, trovando insieme a loro la miglior Soluzione di Connettività Veloce per soddisfare pienamente esigenze e necessità"
+    - "Tutelare le compagnie telefoniche per vendere i loro servizi nel migliore dei modi"
+
+-
+  id: 2
+  q: "In che settore opera Scegli il Top?"
+  a:
+    - "Luce e Gas"
+    - "Energie Rinnovabili"
+    - correct: "Telco"
+    - "Marketing online"
+
+-
+  id: 3
+  q: "Cos\'è il Protocollo di Scegli il Top?"
+  a:
+    - "Un metodo esatto, scientifico e testato che ti porta a concludere una vendita senza particolari sforzi o competenze precedentemente sviluppate"
+    - "Un metodo, esatto scientifico e testato per per manipolare la testa del cliente e vendere qualsiasi cosa senza che lui se ne accorga"
+    - "Un metodo, esatto scientifico e testato per vendere abbonamenti internet senza sforzo senza nessuna competenza nel settore"
+    - correct: "Un metodo esatto, scientifico e testato che porta il potenziale cliente a sceglierti come professionista al suo fianco e acquistare da te le migliori soluzioni che gli proporrai"
+
+-
+  id: 4
+  q: "Quali sono le Soluzioni che proponiamo?"
+  a:
+    - "FASTWEB, TIM, LINKEM"
+    - correct: "LINKEM, FASTWEB, TISCALI, VODAFONE, WINDTRE, TIM"
+    - "WINDTRE, TISCALI, LINKEM, TIM"
+    - "LINKEM, FASTWEB, TISCALI, VODAFONE"
+
+-
+  id: 5
+  q: "Qual è la prima soluzione da proporre al cliente?"
+  a:
+    - correct: "LINKEM"
+    - "FASTWEB"
+    - "WINDTRE"
+    - "TISCALI"
+
+-
+  id: 6
+  q: "Quale Tecnologia utilizza Linkem?"
+  a:
+    - "ADSL"
+    - "FTTC"
+    - "FTTH"
+    - correct: "FTTR"
+
+-
+  id: 7
+  q: "Quale Tecnologie non utilizza Fastweb?"
+  a:
+    - "ADSL"
+    - "FTTC"
+    - "FTTH"
+    - correct: "FTTR"
+
+-
+  id: 8
+  q: "Seleziona la promo corretta di Linkem"
+  a:
+    - "19,90€/mese x sempre"
+    - "19,90€/mese x il primo anno poi 29,90€/mese x sempre"
+    - correct: "19,90€/mese x 6 mesi poi 26,90€/mese x sempre"
+    - "26,90€/mese x sempre"
+
+-
+  id: 9
+  q: "Seleziona la promo corretta di Fastweb"
+  a:
+    - "25,95€/mese x 6 mesi poi 29,95€/mese x sempre""
+    - correct: "29,95€/mese x sempre"
+    - "27,90€/mese x il primo anno poi 29,90€/mese x sempre"
+    - "29,90€/mese x sempre"
+
+-
+  id: 10
+  q: "Seleziona la promo corretta di Tiscali FWA"
+  a:
+    - "19,95€/mese x 6 mesi poi 29,95€/mese x sempre"
+    - "22,90€/mese x il primo anno poi 24,90€/mese x sempre"
+    - correct: "24,95€/mese x sempre"
+    - "24,90€/mese x sempre"
+
+-
+  id: 11
+  q: "Navigo più veloce con Linkem o Tiscali FWA?"
+  a:
+    - correct: "Dipende da altri fattori (distanza ripetitore e livello di saturazione)"
+    - "Tiscali"
+    - "Sono Uguali"
+    - "Linkem"
+
+-
+  id: 12
+  q: "Linkem ha bisogno di linea fissa?"
+  a:
+    - "Certo"
+    - "Sarebbe Preferibile"
+    - "Si"
+    - correct: "No"
+
+-
+  id: 13
+  q: "Entro quanti metri è possibile vendere indoor Linkem?"
+  a:
+    - "1500"
+    - "200"
+    - "nessuna di queste"
+    - correct: "500"
+
+-
+  id: 14
+  q: "Entro quanti metri è possibile vendere outdoor Linkem?"
+  a:
+    - "1500"
+    - "200"
+    - correct: "nessuna di queste"
+    - "500"
+
+-
+  id: 15
+  q: "Entro quanti giorni è verrà attivato il servizio di Linkem?"
+  a:
+    - "Indoor 5 / Outdoor 10"
+    - "Indoor e Outdoor 5"
+    - "Indoor 2 / Outdoor 5"
+    - correct: "Indoor 5 / Outdoor 7 max 10 lavorativi"
+    
+-
+  id: 16
+  q: "Entro quanti giorni arriverà la prima fattura Linkem al cliente?"
+  a:
+    - "Indoor 5 / Outdoor 10"
+    - "Indoor e Outdoor 5"
+    - "Indoor 2 / Outdoor 5"
+    - correct: "Indoor 5 / Outdoor 7 max 10 lavorativi"
+
+-
+  id: 17
+  q: "Entro quanti giorni è verrà attivato il servizio di Linkem?"
+  a:
+    - correct: "30 giorni fine mese attivazione"
+    - "dopo 2 mesi"
+    - "fine mese attivazione"
+    - "subito dopo l"attivazione"
+
+-
+  id: 18
+  q: "Quanto costa l\'attivazione di Linkem?"
+  a:
+    - "Zero"
+    - correct: "49€"
+    - "29,90€"
+    - "30€"
+
+-
+  id: 19
+  q: "Quanto costa l\'attivazione di Tiscali?"
+  a:
+    - "29,90€"
+    - "49€"
+    - correct: "30€"
+    - "Zero"
+
+-
+  id: 20
+  q: "Quanto costa l\'attivazione di Fastweb?"
+  a:
+    - correct: "Zero"
+    - "49€"
+    - "29,90€"
+    - "30€"
+
+-
+  id: 21
+  q: "Quando non prende Linkem cosa faccio?"
+  a:
+    - "Nulla"
+    - "Attendo che il cliente mi scriva"
+    - "Propongo Tiscali"
+    - correct: "Procedo con una consulenza Sartoriale"
+
+-
+  id: 22
+  q: "Nella consulenza sartoriale quando si fa la parafrasi ristrutturante? "
+  a:
+    - "mai"
+    - correct: "dopo aver capito le sue esigenze"
+    - "dopo aver svolto il colloquio"
+    - "dopo l"approccio"
+
+-
+  id: 23
+  q: "Quando mi vengono pagate le provvigioni linkem?"
+  a:
+    - "a fine mese"
+    - "subito"
+    - "dopo che il cliente attiva"
+    - correct: "a 60 giorni dall"inserimento"
+
+-
+  id: 24
+  q: "Quando mi vengono pagate le provvigioni Tiscali?"
+  a:
+    - "a fine mese"
+    - "subito"
+    - "dopo che il cliente attiva"
+    - correct: "a 60 giorni dall"inserimento"
+
+-
+  id: 25
+  q: "Quando mi vengono pagate le provvigioni Fastweb?"
+  a:
+    - correct: "30 giorni fine mese dall"attivazione"
+    - "subito"
+    - "dopo che il cliente attiva"
+    - "a 60 giorni dall"inserimento"
