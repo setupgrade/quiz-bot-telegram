@@ -19,7 +19,7 @@ logging.getLogger().setLevel('DEBUG')
 
 TOKEN_FILE = 'token.txt'
 TOKEN = Path(TOKEN_FILE).read_text().strip()
-AUTHORIZED_USERS = ['makukha']
+AUTHORIZED_USERS = ['Setupgrade']
 
 DURATION = 5
 
@@ -61,7 +61,7 @@ def start(update, context):
         context.user_data['username'] = user.username
 
     msg.bot.send_message(msg.chat_id,
-        text=f'Давайте начнем тест. У вас будет {DURATION} минут на {len(QUESTIONS)} вопросов. Готовы?',
+        text=f'Iniziamo il test. Avrai {DURATION} minuti su {len(QUESTIONS)} domande. Pronto?',
         reply_markup=telegram.ReplyKeyboardMarkup([['Начать тест']]))
 
 
@@ -85,7 +85,7 @@ def common_message(update, context):
         context.user_data['quiz']['starttime'] = starttime
 
         msg.bot.send_message(msg.chat_id,
-            text=f'Тест начат в {starttime}',
+            text=f'OK! Il test è iniziato - {starttime}',
             reply_markup=telegram.ReplyKeyboardRemove())
 
     else:
@@ -109,7 +109,7 @@ def common_message(update, context):
 
     else:
         msg.bot.send_message(msg.chat_id,
-            text=f'Тест пройден!',
+            text=f'Теst completato',
             reply_markup=telegram.ReplyKeyboardRemove())
         context.user_data['quiz']['current_qid'] = None
 
