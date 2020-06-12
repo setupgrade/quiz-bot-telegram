@@ -218,7 +218,7 @@
   id: 25
   q: "Quando mi vengono pagate le provvigioni Fastweb?"
   a:
-    - correct: "30 giorni fine mese dall"attivazione"
+    - correct: "30 giorni fine mese dall attivazione"
     - "subito"
     - "dopo che il cliente attiva"
     - "a 60 giorni dall inserimento"
