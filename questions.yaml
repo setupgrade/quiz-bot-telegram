@@ -18,7 +18,7 @@
 
 -
   id: 3
-  q: "Cos\'è il Protocollo di Scegli il Top?"
+  q: "Cosè il Protocollo di Scegli il Top?"
   a:
     - "Un metodo esatto, scientifico e testato che ti porta a concludere una vendita senza particolari sforzi o competenze precedentemente sviluppate"
     - "Un metodo, esatto scientifico e testato per per manipolare la testa del cliente e vendere qualsiasi cosa senza che lui se ne accorga"
@@ -74,7 +74,7 @@
   id: 9
   q: "Seleziona la promo corretta di Fastweb"
   a:
-    - "25,95€/mese x 6 mesi poi 29,95€/mese x sempre""
+    - "25,95€/mese x 6 mesi poi 29,95€/mese x sempre"
     - correct: "29,95€/mese x sempre"
     - "27,90€/mese x il primo anno poi 29,90€/mese x sempre"
     - "29,90€/mese x sempre"
@@ -153,7 +153,7 @@
 
 -
   id: 18
-  q: "Quanto costa l\'attivazione di Linkem?"
+  q: "Quanto costa l'attivazione di Linkem?"
   a:
     - "Zero"
     - correct: "49€"
@@ -162,7 +162,7 @@
 
 -
   id: 19
-  q: "Quanto costa l\'attivazione di Tiscali?"
+  q: "Quanto costa l'attivazione di Tiscali?"
   a:
     - "29,90€"
     - "49€"
@@ -171,7 +171,7 @@
 
 -
   id: 20
-  q: "Quanto costa l\'attivazione di Fastweb?"
+  q: "Quanto costa l'attivazione di Fastweb?"
   a:
     - correct: "Zero"
     - "49€"
