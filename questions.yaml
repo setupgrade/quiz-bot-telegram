@@ -153,7 +153,7 @@
 
 -
   id: 18
-  q: "Quanto costa l'attivazione di Linkem?"
+  q: "Quanto costa attivazione di Linkem?"
   a:
     - "Zero"
     - correct: "49€"
@@ -162,7 +162,7 @@
 
 -
   id: 19
-  q: "Quanto costa l'attivazione di Tiscali?"
+  q: "Quanto costa attivazione di Tiscali?"
   a:
     - "29,90€"
     - "49€"
@@ -171,7 +171,7 @@
 
 -
   id: 20
-  q: "Quanto costa l'attivazione di Fastweb?"
+  q: "Quanto costa attivazione di Fastweb?"
   a:
     - correct: "Zero"
     - "49€"
