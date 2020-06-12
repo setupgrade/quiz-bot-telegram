@@ -194,7 +194,7 @@
     - "mai"
     - correct: "dopo aver capito le sue esigenze"
     - "dopo aver svolto il colloquio"
-    - "dopo l"approccio"
+    - "dopo approccio"
 
 -
   id: 23
@@ -203,7 +203,7 @@
     - "a fine mese"
     - "subito"
     - "dopo che il cliente attiva"
-    - correct: "a 60 giorni dall"inserimento"
+    - correct: "a 60 giorni dall'inserimento"
 
 -
   id: 24
@@ -212,7 +212,7 @@
     - "a fine mese"
     - "subito"
     - "dopo che il cliente attiva"
-    - correct: "a 60 giorni dall"inserimento"
+    - correct: "a 60 giorni dall\' inserimento"
 
 -
   id: 25
@@ -221,4 +221,4 @@
     - correct: "30 giorni fine mese dall"attivazione"
     - "subito"
     - "dopo che il cliente attiva"
-    - "a 60 giorni dall"inserimento"
+    - "a 60 giorni dall inserimento"
