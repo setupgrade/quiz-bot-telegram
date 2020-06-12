@@ -203,7 +203,7 @@
     - "a fine mese"
     - "subito"
     - "dopo che il cliente attiva"
-    - correct: "a 60 giorni dall'inserimento"
+    - correct: "a 60 giorni dall &#8217; inserimento"
 
 -
   id: 24
@@ -212,7 +212,7 @@
     - "a fine mese"
     - "subito"
     - "dopo che il cliente attiva"
-    - correct: "a 60 giorni dall'inserimento"
+    - correct: "a 60 giorni dall inserimento"
 
 -
   id: 25
