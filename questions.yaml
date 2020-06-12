@@ -144,12 +144,12 @@
 
 -
   id: 17
-  q: "Entro quanti giorni è verrà attivato il servizio di Linkem?"
+  q: "Entro quanti giorni verrà attivato il servizio di Linkem?"
   a:
     - correct: "30 giorni fine mese attivazione"
     - "dopo 2 mesi"
     - "fine mese attivazione"
-    - "subito dopo l"attivazione"
+    - "subito dopo l'attivazione"
 
 -
   id: 18
